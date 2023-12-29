@@ -55,7 +55,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido.
     - Modalidad: Teletrabajo 100%
 
-  >- Rol: Analista / programador, Aplicación web + procesos.
+  >- Rol: **Analista / programador**, Aplicación web + procesos.
   >   - cliente: Enel :it:
   >   - Area: Energéticas
   >     - Proyecto: OpenPortal (5 meses)
@@ -118,12 +118,15 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Agosto 2005 - Agosto 2006
 
-**BEE SOLUTIONS, S.L.**, _Madrid, España_ :es:
+- **BEE SOLUTIONS, S.L.**, _Madrid, España_ :es:
 
-- Tipo de contrato: Indefinido
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Indefinido
+    - _Modalidad: Presencial_
 
->- Cliente: Indra / Telefónica. Proyecto: Sistema judicial. Rol: **Analista / programador**. _Metodología: Waterfall_: `J2EE`, `Java`, (`JSP`, `Servlet`, `JDBC`), `ORM`, `XML`, entorno 3 capas, `Oracle`, `Eclipse`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente: Indra / Telefónica. Proyecto: Sistema judicial.
+  >   - Rol: **Analista / programador**.
+  >   - _Metodología: Waterfall_
+  >   - Tecnologías: `J2EE`, `Java`, (`JSP`, `Servlet`, `JDBC`), `ORM`, `XML`, entorno 3 capas, `Oracle`, `Eclipse`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Diciembre 2003 - Agosto 2005
 
@@ -280,7 +283,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 **[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
 
-- Rol: Voluntariado
+- Rol: **Voluntariado**
 
   >- Vacaciones :desert_island: año 2017 y 2019
   >- Ejerciendo de Docente :man_teacher: (Profesor en varias disciplinas :abacus:, :speech_balloon:, :baseball:)
@@ -289,18 +292,18 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 **[PLATZI](https://platzi.com/)** _(Plataforma educativa online)_
 
->- Rol: Estudiante :student: (en activo) :white_check_mark:
+>- Rol: **Estudiante** :student: (en activo) :white_check_mark:
 >   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
 >   - Certificaciones.
 >   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
 
 **[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
 
->- Rol: Estudiante :student: (en activo) :white_check_mark:
+>- Rol: **Estudiante** :student: (en activo) :white_check_mark:
 >   - Bootcamp
 >   - Tecnologias: `java`, `python`, `discord`, `telegram`
 
 **[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
 
->- Rol: Estudiante :student: (en activo) :white_check_mark:
+>- Rol: **Estudiante** :student: (en activo) :white_check_mark:
 >   - Inglés :gb:, Francés :fr:, Italiano :it:
