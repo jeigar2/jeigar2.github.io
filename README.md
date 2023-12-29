@@ -1,8 +1,8 @@
-# Jesús I. García Fernández
+# Jesús I. García Fernández       (actualizado 29/12/2023)
 
 ## Contacto
 
-- **Dirección:** [Toledo]
+- **Dirección:** [Toledo / España] :es:
 - **Teléfono:** [teléfono]
 - **Correo electrónico:** [je*****mail.com]
 
@@ -14,11 +14,11 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Educación
 
-- **1992 - 1997:** [I.E.S. ROSA CHACEL](https://site.educa.madrid.org/ies.rosachacel.madrid/), Madrid, España
+- **1992 - 1997:** [I.E.S. ROSA CHACEL](https://site.educa.madrid.org/ies.rosachacel.madrid/), Madrid, España :es:
   - Certificado de **B.U.P**. y **C.O.U.**
-- **1997 - 1999:** [I.E.S. CLARA DEL REY](https://iesclaradelrey.es/portal/index.php/es/), Madrid, España
+- **1997 - 1999:** [I.E.S. CLARA DEL REY](https://iesclaradelrey.es/portal/index.php/es/), Madrid, España :es:
   - Ciclo Formativo de Grado Superior en **DAI** (Desarrollo de Aplicaciones Informáticas).
-- **Marzo - Mayo 2000:** ADVANCED GLOBAL SOLUTIONS,S.L., Madrid, España
+- **Marzo - Mayo 2000:** [ADVANCED GLOBAL SOLUTIONS,S.L](https://www.capgemini.com/es-es/)., Madrid, España :es:
   - Curso de formación en el lenguaje de Programación `Java`.
 
 ### Idiomas
@@ -37,13 +37,14 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   
 ## Conocimientos de Informática
 
-- **Programación:** secuencial, estructurada, orientada a eventos, POO (orientada a objetos), declarativa, funcional.
-- **Lenguajes:** `C`, `BASIC`, `Visual BASIC`, `SQL`, `PL/SQL`, `Java`, `JavaScript`, `HTML`, `CSS`, `Cosmos`, `XML`, `JSON`, `Kotlin`
+- **Programación:** secuencial, estructurada, orientada a eventos, POO (orientada a objetos), orientada a aspectos, declarativa, funcional.
+- **Lenguajes:** `C`, `BASIC`, `Visual BASIC`, `SQL`, `PL/SQL`, `Java`, `JavaScript`, `HTML`, `CSS`, `Cosmos`, `XML`, `JSON`, `Kotlin`, `Groovy`, `Python`, `shell`, `bash`
 - **Sistemas Operativos:** `MS-DOS`, `Windows`, `Unix`, `Linux`, `MacOS`
 - **Bases de Datos Relacionales:** `Oracle`, `MariaDB`, `MySQL`, `SQL-Server`, `PostgreSQL`, `Sybase`, `Multibase`, `Informix`
 - **NoSql:** `Redis`, `MongoDB`, `Cassandra`
-- **Herramientas:** `git`, `svn`, `cvs`, `maven`, `SoapUI`, `postman`, `jenkins`, `github`, `GitLab`, `OpenShift`, `kibana`, `OpenSearch`, `CloudWatch`, `Slack`, `Teams`, `Discord`, `Visual Studio`, `Visual Studio Code`, `Eclipse`, `Intellij IDEA`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
-- **Otros:** `CD/CI`, `Sonar`, `Cucumber`
+- **Herramientas:** `git`, `svn`, `cvs`, `maven`, `SoapUI`, `postman`, `jenkins`, `github`, `GitLab`, `OpenShift`, `kibana`, `OpenSearch`, `CloudWatch`, `Webex`, `Slack`, `Zoom`, `Discord`, `Sonar`, `Visual Studio`, `Visual Studio Code`, `Eclipse`, `Intellij IDEA`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+- **Frameworks:** `Cucumber`, `SCIM`, `Spring`, `MyBatis`, `JPA`, `Hibernate`, `Struts`, `JSF`, `PrimeFaces`
+- **Otros:** `CD/CI`,
 - **Cloud:** `Azure`, `AWS`, `OpenShift`, `Hadoop`
 
 ## Experiencia Laboral
@@ -60,7 +61,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Area: Energéticas
   >     - Proyecto: OpenPortal (5 meses)
   >       - _Metodología agile_
-  >       - Tecnologías: `Intellij IDEA` + `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Kibana`, `Microservicios`, `ServiceNow`, `Backend`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+  >       - Tecnologías: `Intellij IDEA`, `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Kibana`, `Microservicios`, `ServiceNow`, `SCIM`, `Backend`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
   >     - Proyecto: Kronos - PDP (5 meses)
   >       - _Metodología Waterfall_
   >       - Tecnologías: `Eclipse`, `Java`, `JSF` + `PrimeFaces`, `MyBatis`, `Maven`, `git`, `Oracle`, `Cassandra`, `WildFly`, `Quartz`, `AWS`, `S3`, `ServiceNow`, `FullStack`.  `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
@@ -75,7 +76,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >- Rol: **Jefe de equipo**, diseño, análisis, trato con el cliente. Gestión de equipo.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (12 años)
-  >     - Desarrollo de varios proyectos web Legacy: Iberiagencias, GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
+  >     - Desarrollo de varios proyectos web Legacy: [Iberiagencias](https://www.iberiagencias.com/), GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
   >     - _metodología waterfall_
   >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Mantis`, `Remedy`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `SublimeText`, `Notepad++` `Backend`
   >
@@ -113,7 +114,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
   >- Cliente: [Vodafone](https://www.vodafone.es/c/particulares/es/).
   >   - Proyecto: Incidencias Generales.
-  >   - Rol: **Atencion al Usuario**.
+  >   - Rol: **CAU - (Centro de Atencion al Usuario)** Soporte de Nivel 2.
   >   - Tecnologías: `Avaya`, `Remedy`, `Houston`, `Artemis`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Agosto 2005 - Agosto 2006
@@ -137,7 +138,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
   >- Cliente: [HP](https://www.hp.com/es-es/home.html) (5 meses)
   >   - Área: Sanidad
-  >   - Proyectos: HP-HIS, HP-Doctor.
+  >   - Proyectos: HP-HIS, HP-Doctor, HCIS.
   >   - Roles: **Desarrollo, mantenimiento, implantación e integración**.
   >   - Tecnologías: `Unix`, `Linux`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Oracle`, `Informix`, `MultiBase`, `Eclipse`, `JOnAS`, `JBoss`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
   >- Cliente: [HP](https://www.hp.com/es-es/home.html) (4 meses)
@@ -225,7 +226,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Proyecto: WinCole
   >   - Rol: **Programador**, mantenimiento y desarrollo de aplicaciones de gestión Cliente-Servidor.
   >   - Tecnologías: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `Access 97` y `SQL Server`, `SQL`, `MS Office: Outlook, Word, PowerPoint`
-  >- Cliente: UGT
+  >- Cliente: [UGT](https://www.ugt.es/)
   >   - Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
 
 ### Junio - Octubre 1999
@@ -239,7 +240,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Proyecto: WinCole
   >   - Rol: **Programador**, mantenimiento y desarrollo de aplicaciones de gestión Cliente-Servidor
   >   - Tecnología: `Visual Basic 6`, `Access 97` y `SQL Server`, `SQL`. `MS Office: Outlook, Word, PowerPoint`
-  >- Cliente: UGT.
+  >- Cliente: [UGT](https://www.ugt.es/).
   >   - Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
 
 ### Abril - Junio 1999
