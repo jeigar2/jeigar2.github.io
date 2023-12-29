@@ -4,7 +4,7 @@
 
 ## Contacto
 
-- **Dirección:** [Toledo / España] 🇪🇸 
+- **Dirección:** [Toledo / España]
 - **Teléfono:** [teléfono]
 - **Correo electrónico:** [je*****mail.com]
 
@@ -16,18 +16,18 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Educación
 
-- **1992 - 1997:** [I.E.S. ROSA CHACEL](https://site.educa.madrid.org/ies.rosachacel.madrid/), Madrid, España 🇪🇸
+- **1992 - 1997:** [I.E.S. ROSA CHACEL](https://site.educa.madrid.org/ies.rosachacel.madrid/), Madrid, España
   - Certificado de **B.U.P**. y **C.O.U.**
-- **1997 - 1999:** [I.E.S. CLARA DEL REY](https://iesclaradelrey.es/portal/index.php/es/), Madrid, España 🇪🇸
+- **1997 - 1999:** [I.E.S. CLARA DEL REY](https://iesclaradelrey.es/portal/index.php/es/), Madrid, España
   - Ciclo Formativo de Grado Superior en **DAI** (Desarrollo de Aplicaciones Informáticas).
-- **Marzo - Mayo 2000:** [ADVANCED GLOBAL SOLUTIONS,S.L](https://www.capgemini.com/es-es/)., Madrid, España 🇪🇸
+- **Marzo - Mayo 2000:** [ADVANCED GLOBAL SOLUTIONS,S.L](https://www.capgemini.com/es-es/)., Madrid, España
   - Curso de formación en el lenguaje de Programación `Java`.
 
 ### Idiomas
 
-- Inglés 🇬🇧 : **B1** (reading: 80%, listening: 50%, speaking: 60%)
-- Francés 🇫🇷 : **A2** (reading: 40%, listening: 30%, speaking: 30%)
-- Italiano 🇮🇹 : **A2** (reading: 50%, listening: 30%, speaking: 30%)
+- Inglés: **B1** (reading: 80%, listening: 50%, speaking: 60%)
+- Francés: **A2** (reading: 40%, listening: 30%, speaking: 30%)
+- Italiano: **A2** (reading: 50%, listening: 30%, speaking: 30%)
 
 ## Otros datos de interés
 
@@ -53,13 +53,13 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Marzo 2023 - Actualidad
 
-- **[AYESA ADVANCED TECHNOLOGIES SA](https://www.ayesa.com/)**, _Madrid, España_ 🇪🇸
+- **[AYESA ADVANCED TECHNOLOGIES SA](https://www.ayesa.com/)**, _Madrid, España_
 
   - Tipo de contrato: Indefinido.
     - Modalidad: Teletrabajo 100%
 
   >- Rol: **Analista / programador**, Aplicación web + procesos.
-  >   - cliente: [Enel](https://www.enel.com/es) 🇮🇹
+  >   - cliente: [Enel](https://www.enel.com/es)
   >   - Area: Energéticas
   >     - Proyecto: OpenPortal (5 meses)
   >       - _Metodología agile_
@@ -70,7 +70,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Febrero 2008 - Marzo 2023 (Excedencia 1 año)
 
-- **[COFORGE SA](https://www.coforge.com/)**, _Madrid, España_ 🇪🇸
+- **[COFORGE SA](https://www.coforge.com/)**, _Madrid, España_
 
   - Tipo de contrato: Indefinido
     - Modalidad: híbrido
@@ -83,7 +83,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Mantis`, `Remedy`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `SublimeText`, `Notepad++` `Backend`
   >
   >- Rol: **Analista / programador**
-  >   - Cliente: [Sabre](https://www.sabre.com/) [Polonia] 🇵🇱 (6 meses)
+  >   - Cliente: [Sabre](https://www.sabre.com/) [Polonia] (6 meses)
   >     - Proyecto cerrado de Migración.
   >     - _Metodología: Agile_
   >     - Tecnologías: `Java 7 y 11`, `Kotlin`, `Cucumber`, `Microservicios`, `REST`, `Intellij IDEA`, `maven`, `spring`, `JPA`, `git`, `Sourcetree`, `postman`, `SoapUI`, `XML`, `JSON`, `Kibana`, `OpenShift`, `Jira`, `Confluence`, `ServiceNow`, `CD/CI`, `Jenkins`, `Visual Studio Code`, `SublimeText`, `Notepad++` `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Backend`
@@ -95,7 +95,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Septiembre 2006 - Enero 2008
 
-- **BEARINGPOINT SOFTWARE SOLUTIONS, S.L**, _Madrid, España_ 🇪🇸
+- **BEARINGPOINT SOFTWARE SOLUTIONS, S.L**, _Madrid, España_
 
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
@@ -109,7 +109,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Agosto 2007 - Noviembre 2007
 
-- **[SEREM CONSULTORIA EMPRESARIAL, S.L.U](https://www.serem.com/)**, _Madrid, España_ 🇪🇸
+- **[SEREM CONSULTORIA EMPRESARIAL, S.L.U](https://www.serem.com/)**, _Madrid, España_
 
   - Tipo de contrato: Obra o Servicio
     - _Modalidad: Presencial_ _(fines de semana y festivos)_
@@ -121,7 +121,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Agosto 2005 - Agosto 2006
 
-- **BEE SOLUTIONS, S.L.**, _Madrid, España_ 🇪🇸
+- **BEE SOLUTIONS, S.L.**, _Madrid, España_
 
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
@@ -133,7 +133,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Diciembre 2003 - Agosto 2005
 
-- **[GRUPO SMS (SYSTEMS MAINTENANCE SERVICES EUROPA, S.A.)](https://www.smsglb.com/?lang=es)**, _Madrid, España_ 🇪🇸
+- **[GRUPO SMS (SYSTEMS MAINTENANCE SERVICES EUROPA, S.A.)](https://www.smsglb.com/?lang=es)**, _Madrid, España_
 
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
@@ -149,7 +149,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Diciembre 2002 - Noviembre 2003
 
-- **TRANSTOOLS S.A.**, _Quito, Ecuador_ 🇪🇨
+- **TRANSTOOLS S.A.**, _Quito, Ecuador_
 
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
@@ -162,7 +162,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Febrero 2002 - Noviembre 2002
 
-- **NETVERSATILE**, _Quito, Ecuador_ 🇪🇨
+- **NETVERSATILE**, _Quito, Ecuador_
 
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
@@ -176,7 +176,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Mayo 2002 - Julio 2002
 
-- **[UDLA (UNIVERSIDAD DE LAS AMÉRICAS)](https://www.udla.edu.ec/)**, _Quito, Ecuador_ 🇪🇨
+- **[UDLA (UNIVERSIDAD DE LAS AMÉRICAS)](https://www.udla.edu.ec/)**, _Quito, Ecuador_
 
   - Tipo de contrato: Autónomo
     - _Modalidad: Presencial_
@@ -188,7 +188,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Mayo 2000 - Noviembre 2001
 
-**[ADVANCED GLOBAL SOLUTIONS,S.L.](https://www.capgemini.com/es-es/)**, _Madrid, España_ 🇪🇸
+**[ADVANCED GLOBAL SOLUTIONS,S.L.](https://www.capgemini.com/es-es/)**, _Madrid, España_
 
 - Tipo de Contrato: Indefinido.
   - _Modalidad: Presencial_
@@ -219,7 +219,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Noviembre 1999 - Abril 2000
 
-- **FIRST (FUNDAMENTOS INFORMÁTICOS REDES SERVICIOS TECNOLOGÍA S.L.)**, _Madrid, España_ 🇪🇸
+- **FIRST (FUNDAMENTOS INFORMÁTICOS REDES SERVICIOS TECNOLOGÍA S.L.)**, _Madrid, España_
 
   - Tipo de contrato: Por obra y servicio
     - _Modalidad: Presencial_
@@ -233,7 +233,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Junio - Octubre 1999
 
-- **FESEYCO (FETE SERVICIOS Y CONSULTING, S.L.)**, _Madrid, España_ 🇪🇸
+- **FESEYCO (FETE SERVICIOS Y CONSULTING, S.L.)**, _Madrid, España_
 
   - Tipo de Contrato: Por obra o servicio.
     - _Modalidad: Presencial_
@@ -247,7 +247,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Abril - Junio 1999
 
-- **[I.N.E. (INSTITUTO NACIONAL DE ESTADÍSTICA)](https://ine.es/)**, _Madrid, España_ 🇪🇸
+- **[I.N.E. (INSTITUTO NACIONAL DE ESTADÍSTICA)](https://ine.es/)**, _Madrid, España_
 
   - Tipo de Contrato: Prácticas.
     - _Modalidad: Presencial_
@@ -260,7 +260,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Febrero - Marzo 1999
 
-- **RANDOM CONSULTORES S.L.**, _Madrid, España_ 🇪🇸
+- **RANDOM CONSULTORES S.L.**, _Madrid, España_
 
   - Tipo de Contrato: Becario.
     - _Modalidad: Presencial_
@@ -269,41 +269,41 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >- Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones...
   >- Tecnología: `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
 
-## Proyectos Personales 💾 y Formación Adicional 🎓
+## Proyectos Personales y Formación Adicional
 
-- **[42 MADRID](https://www.42madrid.com/) ([FUNDACION TELEFÓNICA](https://www.fundaciontelefonica.com/))**, _Madrid, España_ 🇪🇸
+- **[42 MADRID](https://www.42madrid.com/) ([FUNDACION TELEFÓNICA](https://www.fundaciontelefonica.com/))**, _Madrid, España_
 
-  >- Rol: **Candidato** 🍍
+  >- Rol: **Candidato**
   >   - Febrero de 2020 (piscina) _[4 semanas]_
   >   - Tecnologías: `shell`, `linux`, `man`, `C`, `gcc` `norminette`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
-  >- Rol: **Estudiante** 🎓
-  >   - Julio de 2020 (Cursus) _[4 meses - blackhole_ 🕳️ _modelo pandemia_  😷 _)]_
-  >   - Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole_ 🕳️ _, incompatibilidad conciliación familiar_ 👪 _]_
+  >- Rol: **Estudiante**
+  >   - Julio de 2020 (Cursus) _[4 meses - blackhole_modelo pandemia _)]_
+  >   - Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole, incompatibilidad conciliación familiar]_
   >   - Tecnologías: `shell`, `linux`, `man`, `C`, `gcc`, `norminette`, `make makefile`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
 - **[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
 
   > - Rol: **Voluntariado**
-  >   - Vacaciones 🏝️ año 2017 y 2019
-  >   - Ejerciendo de Docente 👨‍🏫 (Profesor en varias disciplinas 📊, 💬, ⚾)
-  >   - Para niños 🧒, y adolescentes 👦 , 👧 (entre 8 y 14 años), en dos colegios y en un Batey
+  >   - Vacaciones año 2017 y 2019
+  >   - Ejerciendo de Docente (Profesor en varias disciplinas)
+  >   - Para niños, y adolescentes, (entre 8 y 14 años), en dos colegios y en un Batey
   >   - Tecnologías: `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`
 
 - **[PLATZI](https://platzi.com/)** _(Plataforma educativa online)_
 
-  >- Rol: **Estudiante** 🎓 (en activo) ✅
+  >- Rol: **Estudiante** (en activo)
   >   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
   >   - Certificaciones.
   >   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
 
 - **[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
 
-  >- Rol: **Estudiante** 🎓 (en activo) ✅
+  >- Rol: **Estudiante** (en activo)
   >   - Bootcamp
   >   - Tecnologias: `java`, `python`, `discord`, `telegram`
 
 - **[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
 
-  >- Rol: **Estudiante** 🎓 (en activo) ✅
-  >   - Inglés 🇬🇧, Francés 🇫🇷, Italiano 🇮🇹
+  >- Rol: **Estudiante** (en activo)
+  >   - Inglés, Francés, Italiano
