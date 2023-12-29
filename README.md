@@ -1,4 +1,6 @@
-# Jesús I. García Fernández       (actualizado 29/12/2023)
+# Jesús I. García Fernández
+
+[_actualizado 29/12/2023_](https://jeigar2.github.io/)
 
 ## Contacto
 
