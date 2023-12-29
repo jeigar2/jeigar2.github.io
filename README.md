@@ -14,79 +14,111 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Educación
 
-- **1992 - 1997:** I.B. Rosa Chacel, Madrid, España
+- **1992 - 1997:** [I.E.S. ROSA CHACEL](https://site.educa.madrid.org/ies.rosachacel.madrid/), Madrid, España
   - Certificado de **B.U.P**. y **C.O.U.**
-- **1997 - 1999:** I.E.S Clara del Rey, Madrid, España
+- **1997 - 1999:** [I.E.S. CLARA DEL REY](https://iesclaradelrey.es/portal/index.php/es/), Madrid, España
   - Ciclo Formativo de Grado Superior en **DAI** (Desarrollo de Aplicaciones Informáticas).
-- **Marzo - Mayo 2000:** AG Tecnology S.L., Madrid, España
+- **Marzo - Mayo 2000:** ADVANCED GLOBAL SOLUTIONS,S.L., Madrid, España
   - Curso de formación en el lenguaje de Programación `Java`.
 
 ### Idiomas
 
-- Inglés: **B1** (reading: 80%, listening: 50%, speaking: 60%)
-- Francés: **A2** (reading: 40%, listening: 30%, speaking: 30%)
-- Italiano: **A2** (reading: 50%, listening: 30%, speaking: 30%)
+- Inglés :gb: : **B1** (reading: 80%, listening: 50%, speaking: 60%)
+- Francés :fr: : **A2** (reading: 40%, listening: 30%, speaking: 30%)
+- Italiano :it: : **A2** (reading: 50%, listening: 30%, speaking: 30%)
 
 ## Otros datos de interés
 
 - Tipo de contratación preferible: **Teletrabajo 100%**
   - _Reuniones puntuales en oficina / cliente (2 veces al mes)_
-- [x] Carnet B de conducir
+- Carnet B de conducir: **SI**
 - Disponibilidad para trabajar fuera: **NO** actualmente
 - Disponibilidad para el cambio: **1 mes**
   
 ## Conocimientos de Informática
 
 - **Programación:** secuencial, estructurada, orientada a eventos, POO (orientada a objetos), declarativa, funcional.
-- **Lenguajes:** `C`, `BASIC`, `Visual BASIC`, `SQL`, `PL/SQL`, `Java`, `JavaScript`, `HTML`, `CSS`, `Cosmos`, `XML`, `JSON`
+- **Lenguajes:** `C`, `BASIC`, `Visual BASIC`, `SQL`, `PL/SQL`, `Java`, `JavaScript`, `HTML`, `CSS`, `Cosmos`, `XML`, `JSON`, `Kotlin`
 - **Sistemas Operativos:** `MS-DOS`, `Windows`, `Unix`, `Linux`, `MacOS`
 - **Bases de Datos Relacionales:** `Oracle`, `MariaDB`, `MySQL`, `SQL-Server`, `PostgreSQL`, `Sybase`, `Multibase`, `Informix`
 - **NoSql:** `Redis`, `MongoDB`, `Cassandra`
 - **Herramientas:** `git`, `svn`, `cvs`, `maven`, `SoapUI`, `postman`, `jenkins`, `github`, `GitLab`, `OpenShift`, `kibana`, `OpenSearch`, `CloudWatch`, `Slack`, `Teams`, `Discord`, `Visual Studio`, `Visual Studio Code`, `Eclipse`, `Intellij IDEA`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
-- **Otros:** `CD/CI`, `Sonar`
+- **Otros:** `CD/CI`, `Sonar`, `Cucumber`
 - **Cloud:** `Azure`, `AWS`, `OpenShift`, `Hadoop`
 
 ## Experiencia Laboral
 
 ### Marzo 2023 - Actualidad
 
-**Ayesa**, _Madrid, España_
+- **[AYESA ADVANCED TECHNOLOGIES SA](https://www.ayesa.com/)**, _Madrid, España_ :es:
 
-- Tipo de contrato: Indefinido.
-  - Modalidad: Teletrabajo 100%
+  - Tipo de contrato: Indefinido.
+    - Modalidad: Teletrabajo 100%
 
->Trabajando en los equipos de desarrollo con rol de analista / programador, en dos proyectos, cliente: Enel
->
->- OpenPortal (5 meses): `Intellij IDEA` + `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Microservicios`, `Backend`. _Metodología ágil_. `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
->- Kronos - PDP (5 meses): `Eclipse`, `Java`, `JSF` + `PrimeFaces`, `MyBatis`, `Maven`, `git`, `Oracle`, `Cassandra`, `WildFly`, `Quartz`, `FullStack`. Aplicación web + procesos. _Metodología waterfall_. `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+  >- Rol: Analista / programador, Aplicación web + procesos.
+  >   - cliente: Enel :it:
+  >   - Area: Energéticas
+  >     - Proyecto: OpenPortal (5 meses)
+  >       - _Metodología agile_
+  >       - Tecnologías: `Intellij IDEA` + `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Kibana`, `Microservicios`, `ServiceNow`, `Backend`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+  >     - Proyecto: Kronos - PDP (5 meses)
+  >       - _Metodología Waterfall_
+  >       - Tecnologías: `Eclipse`, `Java`, `JSF` + `PrimeFaces`, `MyBatis`, `Maven`, `git`, `Oracle`, `Cassandra`, `WildFly`, `Quartz`, `AWS`, `S3`, `ServiceNow`, `FullStack`.  `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
 
 ### Febrero 2008 - Marzo 2023 (Excedencia 1 año)
 
-**Coforge**, _Madrid, España_
+- **[COFORGE SA](https://www.coforge.com/)**, _Madrid, España_ :es:
 
-- Tipo de contrato: Indefinido
-  - Modalidad: híbrido
->
->- Rol: **Jefe de equipo**, diseño, análisis, trato con el cliente. Gestión de equipo.
->
->   - Cliente: Iberia, Área: Grupos (12 años): Desarrollo de varios proyectos web Legacy, y aplicaciones, stand-alone, _metodología waterfall_, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web. `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Backend`
->- Rol: **Analista / programador**
->   - Cliente: Sabre [Polonia] (6 meses) Proyecto de Migración. _Metodología: Agile_: `Java 7 y 11`, `Microservicios`, `REST`, `Intellij IDEA`, `maven`, `spring`, `JPA`, `git`, `Sourcetree`, `postman`, `SoapUI`, `XML`, `JSON`, `Kibana`, `OpenShift`, `Jira`, `Confluence`, `CD/CI`, `Jenkins`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Backend`
->
->   - Cliente: Iberia (7 meses) Proyecto IB.com. Partes Legacy, nuevas Fases del proyecto y Migración. _Metodología: Agile_: `Java 7 y 11`, `Microservicios`, `REST`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `git`, `Sourcetree`, `postman`, `SoapUI`, `XML`, `JSON`, `Docker`, `Redis`, `Kibana`, `OpenSearch`, `CloudWatch`, `AWS`, `Jira`, `Confluence`, `CD/CI`, `GitLab`, `Github`, `Jenkins`, `Kanban`, `Scrum`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Backend`
+  - Tipo de contrato: Indefinido
+    - Modalidad: híbrido
+
+  >- Rol: **Jefe de equipo**, diseño, análisis, trato con el cliente. Gestión de equipo.
+  >   - Cliente: Iberia
+  >     - Área: Aviación, Grupos (12 años)
+  >     - Desarrollo de varios proyectos web Legacy: Iberiagencias, GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
+  >     - _metodología waterfall
+  >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Mantis`, `Remedy`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `SublimeText`, `Notepad++` `Backend`
+  >
+  >- Rol: **Analista / programador**
+  >   - Cliente: [Sabre](https://www.sabre.com/) [Polonia] :poland: (6 meses)
+  >     - Proyecto cerrado de Migración.
+  >     - _Metodología: Agile_
+  >     - Tecnologías: `Java 7 y 11`, `Kotlin`, `Cucumber`, `Microservicios`, `REST`, `Intellij IDEA`, `maven`, `spring`, `JPA`, `git`, `Sourcetree`, `postman`, `SoapUI`, `XML`, `JSON`, `Kibana`, `OpenShift`, `Jira`, `Confluence`, `ServiceNow`, `CD/CI`, `Jenkins`, `Visual Studio Code`, `SublimeText`, `Notepad++` `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Backend`
+  >
+  >   - Cliente: Iberia (7 meses)
+  >     - Proyecto [IB.com](https://www.iberia.com/). Partes Legacy, nuevas Fases del proyecto y Migración.
+  >     - _Metodología: Agile_
+  >     - Tecnologías: `Java 7 y 11`, `Microservicios`, `REST`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `git`, `Sourcetree`, `postman`, `SoapUI`, `XML`, `JSON`, `Docker`, `Redis`, `Kibana`, `OpenSearch`, `CloudWatch`, `AWS`, `Jira`, `Confluence`, `ServiceNow`, `CD/CI`, `GitLab`, `Github`, `Jenkins`, `Kanban`, `Scrum`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`, `Visual Studio Code`, `SublimeText`, `Notepad++`, `Backend`
 
 ### Septiembre 2006 - Enero 2008
 
-**Bearing Point**, _Madrid, España_
+- **BEARINGPOINT SOFTWARE SOLUTIONS, S.L**, _Madrid, España_ :es:
 
-- Tipo de contrato: Indefinido
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Indefinido
+    - _Modalidad: Presencial_
 
->- Cliente: Telefónica. Proyecto: Spika. _Metodología Waterfall_: Documentación de proyectos legacy en 2006. Rol: **Jefe de equipo**. Gestión de personal, desarrollo y mejora de procesos en 2007. `J2EE` (`JSP`, `Servlet`, `JDBC`), `ORM`, `XML` entorno 3 capas, `Oracle`, `IntelliJ IDEA`, `HTML`, `JavaScript`, `CSS`, `MS Office: Outlook, Word, Excel, PowerPoint`.
+  >- Cliente: Telefónica.
+  >   - Documentación de proyectos legacy en 2006.
+  >   - Proyecto: Spika.
+  >   - _Metodología Waterfall_
+  >   - Rol: **Jefe de equipo**. Gestión de personal, desarrollo y mejora de procesos en 2007.
+  >   - Tecnologías: `J2EE` (`JSP`, `Servlet`, `JDBC`), `ORM`, `XML` entorno 3 capas, `Oracle`, `IntelliJ IDEA`, `HTML`, `JavaScript`, `CSS`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`.
+
+## Agosto 2007 - Noviembre 2007
+
+- **[SEREM CONSULTORIA EMPRESARIAL, S.L.U](https://www.serem.com/)**, _Madrid, España_ :es:
+
+  - Tipo de contrato: Obra o Servicio
+    - _Modalidad: Presencial_ _(fines de semana y festivos)_
+
+  >- Cliente: Vodafone.
+  >   - Proyecto: Incidencias Generales.
+  >   - Rol: **Atencion al Usuario**.
+  >   - Tecnologías: `Avaya`, `Remedy`, `Houston`, `Artemis`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Agosto 2005 - Agosto 2006
 
-**Bee Solutions**, _Madrid, España_
+**BEE SOLUTIONS, S.L.**, _Madrid, España_ :es:
 
 - Tipo de contrato: Indefinido
   - _Modalidad: Presencial_
@@ -95,128 +127,180 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ### Diciembre 2003 - Agosto 2005
 
-**GRUPO SMS**, _Madrid, España_
+- **[GRUPO SMS (SYSTEMS MAINTENANCE SERVICES EUROPA, S.A.)](https://www.smsglb.com/?lang=es)**, _Madrid, España_ :es:
 
-- Tipo de contrato: Indefinido
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Indefinido
+    - _Modalidad: Presencial_
 
->- Cliente: HP. (5 meses) Área: Sanidad, Proyectos: HP-HIS, HP-Doctor. Roles: **Desarrollo, mantenimiento, implantación e integración**. `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Informix`, `Eclipse`, `JOnAS`, `JBoss`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
->- Cliente: HP. (4 meses) Área: Sanidad, Proyecto: HIS1. Gacela. Admisión, Urgencias, Consultas Externas. Rol: **Soporte, Call Center** atención de Nivel 1. `Multibase`, `Informix`, `PowerBuilder`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente: HP. (5 meses)
+  >   - Área: Sanidad
+  >   - Proyectos: HP-HIS, HP-Doctor.
+  >   - Roles: **Desarrollo, mantenimiento, implantación e integración**.
+  >   - Tecnologías: `Unix`, `Linux`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Oracle`, `Informix`, `MultiBase`, `Eclipse`, `JOnAS`, `JBoss`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente: HP. (4 meses)
+  >   - Área: Sanidad
+      - Proyectos: HIS1. Gacela. ADM (Admisión), URG (Urgencias), CEX (Consultas Externas). Rol: **Soporte, Call Center** atención de Nivel 1. `Unix`, `Linux`, `Multibase`, `Informix`, `PowerBuilder`. `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Diciembre 2002 - Noviembre 2003
 
-**TRANSTOOLS S.A.**, _Quito, Ecuador_
+- **TRANSTOOLS S.A.**, _Quito, Ecuador_ :ecuador:
 
-- Tipo de contrato: Indefinido
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Indefinido
+    - _Modalidad: Presencial_
 
->- Cliente: PNE. Proyecto: SIPNE. Rol: **Analista / programador**. _Metodología XP_. Aplicación cliente / servidor, POO, `COSMOS`, `JCosmos`, `Multibase`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente: PNE
+  >   - Proyecto: SIPNE.
+  >   - Rol: **Analista / programador**, Aplicación cliente / servidor, POO.
+  >   - _Metodología XP_
+  >   - Teconologías:  `COSMOS`, `JCosmos`, `MultiBase`, `VBA`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Febrero 2002 - Noviembre 2002
 
-**NetVersatile**, _Quito, Ecuador_
+- **NETVERSATILE**, _Quito, Ecuador_ :ecuador:
 
-- Tipo de contrato: Indefinido
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Indefinido
+    - _Modalidad: Presencial_
 
->- Cliente: Varios. Área: Courier. Proyecto: Customización del producto al cliente. Roles: **Analista/programador**, líder de proyecto y producto. Soluciones web y `WAP`, `WML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Oracle`, `Tomcat`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Clientes: Andinatel, Wakenhout, ...
+  >   - Área: Courier.
+  >   - Proyecto: Customización del producto al cliente.
+  >   - Roles: **Analista/programador**, líder de proyecto y producto. Soluciones web y celulares.
+  >   - _Metodología XP_
+  >   - Tecnologías: `WAP`, `WML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Eclipse`, `PostgreSQL`, `Sybase`, `Access`, `Tomcat`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Mayo 2002 - Julio 2002
 
-**UDLA (Universidad de las Américas)**, _Quito, Ecuador_
+- **[UDLA (UNIVERSIDAD DE LAS AMÉRICAS)](https://www.udla.edu.ec/)**, _Quito, Ecuador_ :ecuador:
 
-- Tipo de contrato: Autónomo
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Autónomo
+    - _Modalidad: Presencial_
 
->- Cliente Final. (medio semestre). Rol: **Profesor sustituto**: Materia: 3er Año, 2º Semestre: `POO` aplicado a un lenguaje: `Java`, `NetBeans`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente Final (medio semestre)
+  >   - Rol: **Profesor sustituto**
+  >   - Materia: `POO` aplicado a un lenguaje
+  >   - Tecnología: `Java`, `EditPlus`, `Kawa`, `NetBeans`. `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Mayo 2000 - Noviembre 2001
 
-**AG-Technology**, _Madrid, España_
+**[ADVANCED GLOBAL SOLUTIONS,S.L.](https://www.capgemini.com/es-es/)**, _Madrid, España_ :es:
 
 - Tipo de Contrato: Indefinido.
   - _Modalidad: Presencial_
 
 >- Rol: **Analista / programador**.
->   - Cliente: Ministerio Fomento. Proyecto: Propuesta aplicaciones internas (2 meses). `Rational Rose`, `UML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`), `Oracle`, `SQL` entorno 3 capas, `Resin`, `Tomcat`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: [Consultrans](https://www.consultrans.es/) - [Ministerio Fomento](https://www.mitma.gob.es/).
+>     - Proyecto: Prototipos aplicaciones internas (2 meses).
+>     - Tecnologías: `Rational Rose`, `UML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`), `Oracle`, `SQL` entorno 3 capas, `Resin`, `Tomcat`, `Notepad++`, `EditPlus`, `JDeveloper`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 >- Rol: **Programador / Consultor**
->   - Cliente: Ono / OnoLab. (5 meses) Proyecto: Portales web. `DHTML`, `HTML`, `JavaScript`, `CSS`, `FrontEnd`. `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: [Ono](https://web.archive.org/web/20041230235327/http://ono.com/) / OnoLab. (3 meses) Proyecto: Portales web. `DHTML`, `HTML`, `JavaScript`, `CSS`, `FrontEnd`, `Dreamweaver`, `Front Page`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 >- Rol: **Programador**.
->   - Cliente: BBVA. (6 meses) Proyecto: Procesos CBTF.  `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `WebSphere`, `SGML`, `XML`, `Backend`, `Eclipse`. `MS Office: Outlook, Word, Excel, PowerPoint`
->   - Cliente final. (4 meses) Proyectos internos. `Visual Basic 6`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: [BBVA](https://www.bbva.es/). (6 meses)
+>     - Proyecto: Procesos CBTF.
+>     - Tecnologías: `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `WebSphere`, `SGML`, `XML`, `Backend`, `Notepad++`, `EditPlus`, `Cold Fusion`, `Visual Age for Java`, `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: [UNED](https://www.uned.es/universidad/inicio.html) (2 meses)
+>     - Proyecto: Intranet (evaluaciones)
+>     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `Dreamweaver`, `Front Page`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente final. (4 meses)
+>     - Proyectos internos: Intranet, prototipos, juegos, migraciones.
+>     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`,`DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
 >- Rol: **Formador**.
->   - Cliente: SEPE, (1 mes). Curso de `Java` básico. `Eclipse`. `MS Office: Outlook, Word, Excel, PowerPoint`
->   - Cliente: Cámara de Comercio, (1 mes). Curso de `Java` nivel básico y medio. `Eclipse`. `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: IMEFE Comunidad de Madrid, (1 mes)
+>     - Curso de `Java` básico.
+>     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
+>   - Cliente: [IFE Cámara de Madrid](https://cursos-formacion.camaramadrid.es/), (1 mes)
+>     - Curso de `Java` nivel básico y medio.
+>     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Noviembre 1999 - Abril 2000
 
-**F.I. (Fundamentos Informáticos S.L.)**, _Madrid, España_
+- **FIRST (FUNDAMENTOS INFORMÁTICOS REDES SERVICIOS TECNOLOGÍA S.L.)**, _Madrid, España_ :es:
 
-- Tipo de contrato: Por obra y servicio
-  - _Modalidad: Presencial_
+  - Tipo de contrato: Por obra y servicio
+    - _Modalidad: Presencial_
 
->- Cliente final. Proyecto: WinCole. Rol: **Programador**, mantenimiento y desarrollo de aplicaciones Cliente-Servidor: `Visual Basic 6`, `Access 97` y `SQL Server`, `SQL`. `MS Office: Outlook, Word, PowerPoint`
->- Cliente: UGT. Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
+  >- Cliente final
+  >   - Proyecto: WinCole
+  >   - Rol: **Programador**, mantenimiento y desarrollo de aplicaciones de gestión Cliente-Servidor.
+  >   - Tecnologías: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `Access 97` y `SQL Server`, `SQL`, `MS Office: Outlook, Word, PowerPoint`
+  >- Cliente: UGT
+  >   - Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
 
-### Julio - Octubre 1999
+### Junio - Octubre 1999
 
-**Feseyco (Fete Servicios y Consulting, S.L.)**, _Madrid, España_
+- **FESEYCO (FETE SERVICIOS Y CONSULTING, S.L.)**, _Madrid, España_ :es:
 
-- Tipo de Contrato: Por obra o servicio.
-  - _Modalidad: Presencial_
+  - Tipo de Contrato: Por obra o servicio.
+    - _Modalidad: Presencial_
 
->- Cliente final. Proyecto: WinCole. Rol: **Programador**, mantenimiento y desarrollo de aplicaciones Cliente-Servidor: `Visual Basic 6`, `Access 97` y `SQL Server`, `SQL`. `MS Office: Outlook, Word, PowerPoint`
->- Cliente: UGT. Proyecto: WinCole. Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
+  >- Cliente final
+  >   - Proyecto: WinCole
+  >   - Rol: **Programador**, mantenimiento y desarrollo de aplicaciones de gestión Cliente-Servidor
+  >   - Tecnología: `Visual Basic 6`, `Access 97` y `SQL Server`, `SQL`. `MS Office: Outlook, Word, PowerPoint`
+  >- Cliente: UGT.
+  >   - Rol: **Ayudante** de instalación de redes, montador y reparaciones de equipos informáticos.
 
 ### Abril - Junio 1999
 
-**I.N.E. (Instituto Nacional de Estadística)**, _Madrid, España_
+- **[I.N.E. (INSTITUTO NACIONAL DE ESTADÍSTICA)](https://ine.es/)**, _Madrid, España_ :es:
 
-- Tipo de Contrato: Prácticas.
-  - _Modalidad: Presencial_
+  - Tipo de Contrato: Prácticas.
+    - _Modalidad: Presencial_
 
->- Cliente final. Proyectos: Inventario, Gestión de vacaciones y moscosos. Rol: **Analista / programador**. Análisis, diseño y programación  _Metodología Waterfall_ `Visual Basic 3`,  `Access 2.1`, `SQL`, `Macros VBA`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Cliente final.
+  >- Proyectos: Inventario, Gestión de vacaciones y moscosos.
+  >- Rol: **Analista / programador**. Análisis, diseño y programación. Aplicación de gestión cliente / servidor
+  >- _Metodología XP_
+  >- Tecnologías: `Visual Basic 3`,  `Access 2.1`, `SQL`, `Macros VBA`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Febrero - Marzo 1999
 
-**Random Consultores S.L.**, _Madrid, España_
+- **RANDOM CONSULTORES S.L.**, _Madrid, España_ :es:
 
-- Tipo de Contrato: Becario.
+  - Tipo de Contrato: Becario.
+    - _Modalidad: Presencial_
 
->- Cliente: Banco Santander. Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones... `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
+    >- Cliente: Banco Santander.
+    >- Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones...
+    >- Tecnología: `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
 
-## Proyectos Personales y Formación Adicional
+## Proyectos Personales :floppy_disk: y Formación Adicional :mortar_board:
 
-**42 Madrid (Telefónica)**, _Madrid, España_
+**[42 MADRID (TELEFÓNICA)](https://www.42madrid.com/)**, _Madrid, España_ :es:
 
-- Rol: Estudiante
+- Rol: Candidato :pineapple:
 
->- Febrero de 2020 (piscina)
->- Julio de 2020 (Cursus)
->- Septiembre de 2022 (Cursus - Lazarus - fines de semana)
->- Lenguaje `C`, `Git`, `shell`, `linux`, `MacOS`, Pair Programming. `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+  >- Febrero de 2020 (piscina) _[4 semanas]_
+  >- Tecnologías: `shell`, `linux`, `man`, `C`, `gcc` `norminette`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
-**ONGD - Siempre Adelante**, _Consuelo - San Pedro de Macorís - República Dominicana_
+- Rol: Estudiante :student:
+
+  >- Julio de 2020 (Cursus) _[4 meses - blackhole_ :hole: _modelo pandemia_  :mask: _)]_
+  >- Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole_ :hole: _, incompatibilidad conciliación familiar_ :family: _]_
+  >- Tecnologías: `shell`, `linux`, `man`, `C`, `gcc`, `norminette`, `make makefile`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
+
+**[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
 
 - Rol: Voluntariado
 
->- Vacaciones año 2017 y 2019
->- Ejerciendo de Docente (Profesor en varias disciplinas)
->- Para niños y adolescentes (entre 8 y 14 años), en dos colegios y en un Batey
->- `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
+  >- Vacaciones :desert_island: año 2017 y 2019
+  >- Ejerciendo de Docente :man_teacher: (Profesor en varias disciplinas :abacus:, :speech_balloon:, :baseball:)
+  >- Para niños :child:, y adolescentes :boy: , :girl: (entre 8 y 14 años), en dos colegios y en un Batey
+  >- Tecnologías: `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`
 
-**Platzi** _(Plataforma educativa online)_
+**[PLATZI](https://platzi.com/)** _(Plataforma educativa online)_
 
->- Rol: Estudiante (en activo)
->- escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
->- Certificaciones.
+>- Rol: Estudiante :student: (en activo) :white_check_mark:
+>   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
+>   - Certificaciones.
+>   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
 
-**Codigofacilito** _(Plataforma educativa online)_
+**[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
 
->- Rol: Estudiante (en activo)
->- Bootcamp
+>- Rol: Estudiante :student: (en activo) :white_check_mark:
+>   - Bootcamp
+>   - Tecnologias: `java`, `python`, `discord`, `telegram`
 
-**Duolingo** _(Plataforma educativa para idiomas: online)_
+**[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
 
->- Rol: Estudiante (en activo)
->- Inglés, Francés, Italiano
+>- Rol: Estudiante :student: (en activo) :white_check_mark:
+>   - Inglés :gb:, Francés :fr:, Italiano :it:
