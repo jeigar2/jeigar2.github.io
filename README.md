@@ -76,7 +76,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (12 años)
   >     - Desarrollo de varios proyectos web Legacy: Iberiagencias, GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
-  >     - _metodología waterfall
+  >     - _metodología waterfall_
   >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Mantis`, `Remedy`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `SublimeText`, `Notepad++` `Backend`
   >
   >- Rol: **Analista / programador**
@@ -190,29 +190,29 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 - Tipo de Contrato: Indefinido.
   - _Modalidad: Presencial_
 
->- Rol: **Analista / programador**.
->   - Cliente: [Consultrans](https://www.consultrans.es/) - [Ministerio Fomento](https://www.mitma.gob.es/).
->     - Proyecto: Prototipos aplicaciones internas (2 meses).
->     - Tecnologías: `Rational Rose`, `UML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`), `Oracle`, `SQL` entorno 3 capas, `Resin`, `Tomcat`, `Notepad++`, `EditPlus`, `JDeveloper`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
->- Rol: **Programador / Consultor**
->   - Cliente: [Ono](https://web.archive.org/web/20041230235327/http://ono.com/) / OnoLab. (3 meses) Proyecto: Portales web. `DHTML`, `HTML`, `JavaScript`, `CSS`, `FrontEnd`, `Dreamweaver`, `Front Page`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
->- Rol: **Programador**.
->   - Cliente: [BBVA](https://www.bbva.es/). (6 meses)
->     - Proyecto: Procesos CBTF.
->     - Tecnologías: `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `WebSphere`, `SGML`, `XML`, `Backend`, `Notepad++`, `EditPlus`, `Cold Fusion`, `Visual Age for Java`, `MS Office: Outlook, Word, Excel, PowerPoint`
->   - Cliente: [UNED](https://www.uned.es/universidad/inicio.html) (2 meses)
->     - Proyecto: Intranet (evaluaciones)
->     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `Dreamweaver`, `Front Page`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
->   - Cliente final. (4 meses)
->     - Proyectos internos: Intranet, prototipos, juegos, migraciones.
->     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`,`DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
->- Rol: **Formador**.
->   - Cliente: IMEFE Comunidad de Madrid, (1 mes)
->     - Curso de `Java` básico.
->     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
->   - Cliente: [IFE Cámara de Madrid](https://cursos-formacion.camaramadrid.es/), (1 mes)
->     - Curso de `Java` nivel básico y medio.
->     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Rol: **Analista / programador**.
+  >   - Cliente: [Consultrans](https://www.consultrans.es/) - [Ministerio Fomento](https://www.mitma.gob.es/).
+  >     - Proyecto: Prototipos aplicaciones internas (2 meses).
+  >     - Tecnologías: `Rational Rose`, `UML`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`), `Oracle`, `SQL` entorno 3 capas, `Resin`, `Tomcat`, `Notepad++`, `EditPlus`, `JDeveloper`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Rol: **Programador / Consultor**
+  >   - Cliente: [Ono](https://web.archive.org/web/20041230235327/http://ono.com/) / OnoLab. (3 meses) Proyecto: Portales web. `DHTML`, `HTML`, `JavaScript`, `CSS`, `FrontEnd`, `Dreamweaver`, `Front Page`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Rol: **Programador**.
+  >   - Cliente: [BBVA](https://www.bbva.es/). (6 meses)
+  >     - Proyecto: Procesos CBTF.
+  >     - Tecnologías: `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `WebSphere`, `SGML`, `XML`, `Backend`, `Notepad++`, `EditPlus`, `Cold Fusion`, `Visual Age for Java`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >   - Cliente: [UNED](https://www.uned.es/universidad/inicio.html) (2 meses)
+  >     - Proyecto: Intranet (evaluaciones)
+  >     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `Dreamweaver`, `Front Page`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >   - Cliente final. (4 meses)
+  >     - Proyectos internos: Intranet, prototipos, juegos, migraciones.
+  >     - Tecnologias: `Visual Basic 6`, `ActiveX`, `DLL`, `OCX`, `ASP`, `Access 97`, `SQL Server`, `SQL`, `IIS`, `HTML`, `JavaScript`, `CSS`, `FullStack`, `Dreamweaver`, `Front Page`,`DHTML`, `VBScript`. `MS Office: Outlook, Word, Excel, PowerPoint`
+  >- Rol: **Formador**.
+  >   - Cliente: IMEFE Comunidad de Madrid, (1 mes)
+  >     - Curso de `Java` básico.
+  >     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
+  >   - Cliente: [IFE Cámara de Madrid](https://cursos-formacion.camaramadrid.es/), (1 mes)
+  >     - Curso de `Java` nivel básico y medio.
+  >     - Tecnologías: `Kawa`, `Notepad++`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
 
 ### Noviembre 1999 - Abril 2000
 
@@ -262,48 +262,45 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de Contrato: Becario.
     - _Modalidad: Presencial_
 
-    >- Cliente: Banco Santander.
-    >- Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones...
-    >- Tecnología: `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
+  >- Cliente: Banco Santander.
+  >- Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones...
+  >- Tecnología: `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
 
 ## Proyectos Personales :floppy_disk: y Formación Adicional :mortar_board:
 
-**[42 MADRID (TELEFÓNICA)](https://www.42madrid.com/)**, _Madrid, España_ :es:
+- **[42 MADRID (TELEFÓNICA)](https://www.42madrid.com/)**, _Madrid, España_ :es:
 
-- Rol: Candidato :pineapple:
+  >- Rol: **Candidato** :pineapple:
+  >   - Febrero de 2020 (piscina) _[4 semanas]_
+  >   - Tecnologías: `shell`, `linux`, `man`, `C`, `gcc` `norminette`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
-  >- Febrero de 2020 (piscina) _[4 semanas]_
-  >- Tecnologías: `shell`, `linux`, `man`, `C`, `gcc` `norminette`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
+  >- Rol: **Estudiante** :student:
+  >   - Julio de 2020 (Cursus) _[4 meses - blackhole_ :hole: _modelo pandemia_  :mask: _)]_
+  >   - Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole_ :hole: _, incompatibilidad conciliación familiar_ :family: _]_
+  >   - Tecnologías: `shell`, `linux`, `man`, `C`, `gcc`, `norminette`, `make makefile`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
-- Rol: Estudiante :student:
+- **[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
 
-  >- Julio de 2020 (Cursus) _[4 meses - blackhole_ :hole: _modelo pandemia_  :mask: _)]_
-  >- Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole_ :hole: _, incompatibilidad conciliación familiar_ :family: _]_
-  >- Tecnologías: `shell`, `linux`, `man`, `C`, `gcc`, `norminette`, `make makefile`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
+  > - Rol: **Voluntariado**
+  >   - Vacaciones :desert_island: año 2017 y 2019
+  >   - Ejerciendo de Docente :man_teacher: (Profesor en varias disciplinas :abacus:, :speech_balloon:, :baseball:)
+  >   - Para niños :child:, y adolescentes :boy: , :girl: (entre 8 y 14 años), en dos colegios y en un Batey
+  >   - Tecnologías: `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`
 
-**[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
+- **[PLATZI](https://platzi.com/)** _(Plataforma educativa online)_
 
-- Rol: **Voluntariado**
+  >- Rol: **Estudiante** :student: (en activo) :white_check_mark:
+  >   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
+  >   - Certificaciones.
+  >   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
 
-  >- Vacaciones :desert_island: año 2017 y 2019
-  >- Ejerciendo de Docente :man_teacher: (Profesor en varias disciplinas :abacus:, :speech_balloon:, :baseball:)
-  >- Para niños :child:, y adolescentes :boy: , :girl: (entre 8 y 14 años), en dos colegios y en un Batey
-  >- Tecnologías: `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`
+- **[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
 
-**[PLATZI](https://platzi.com/)** _(Plataforma educativa online)_
+  >- Rol: **Estudiante** :student: (en activo) :white_check_mark:
+  >   - Bootcamp
+  >   - Tecnologias: `java`, `python`, `discord`, `telegram`
 
->- Rol: **Estudiante** :student: (en activo) :white_check_mark:
->   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
->   - Certificaciones.
->   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
+- **[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
 
-**[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
-
->- Rol: **Estudiante** :student: (en activo) :white_check_mark:
->   - Bootcamp
->   - Tecnologias: `java`, `python`, `discord`, `telegram`
-
-**[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
-
->- Rol: **Estudiante** :student: (en activo) :white_check_mark:
->   - Inglés :gb:, Francés :fr:, Italiano :it:
+  >- Rol: **Estudiante** :student: (en activo) :white_check_mark:
+  >   - Inglés :gb:, Francés :fr:, Italiano :it:
