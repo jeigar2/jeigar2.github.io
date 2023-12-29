@@ -4,7 +4,7 @@
 
 ## Contacto
 
-- **Dirección:** [Toledo / España] :es:
+- **Dirección:** [Toledo / España] :es: 🇪🇸
 - **Teléfono:** [teléfono]
 - **Correo electrónico:** [je*****mail.com]
 
