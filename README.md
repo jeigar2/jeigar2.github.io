@@ -282,7 +282,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Septiembre de 2022 (Cursus - Lazarus - fines de semana) _[4 meses - blackhole, incompatibilidad conciliación familiar]_
   >   - Tecnologías: `shell`, `linux`, `man`, `C`, `gcc`, `norminette`, `make makefile`, `Git`, `linux`, `MacOS`, `Marvin`, `Pair Programming`, `Google Suite: Gmail, Meet, Calendar, Drive, Docs, sheet, Keep, YouTube`, `Slack`
 
-- **[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_ :dominican_republic:
+- **[ONGD - FUNDACIÓN SIEMPRE ADELANTE](https://fundacionsiempreadelante.org/)**, _Consuelo - San Pedro de Macorís - República Dominicana_
 
   > - Rol: **Voluntariado**
   >   - Vacaciones año 2017 y 2019
