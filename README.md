@@ -56,7 +56,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
     - Modalidad: Teletrabajo 100%
 
   >- Rol: **Analista / programador**, Aplicación web + procesos.
-  >   - cliente: Enel :it:
+  >   - cliente: [Enel](https://www.enel.com/es) :it:
   >   - Area: Energéticas
   >     - Proyecto: OpenPortal (5 meses)
   >       - _Metodología agile_
@@ -97,7 +97,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
 
-  >- Cliente: Telefónica.
+  >- Cliente: [Telefónica](https://www.telefonica.com/es/).
   >   - Documentación de proyectos legacy en 2006.
   >   - Proyecto: Spika.
   >   - _Metodología Waterfall_
@@ -111,7 +111,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Obra o Servicio
     - _Modalidad: Presencial_ _(fines de semana y festivos)_
 
-  >- Cliente: Vodafone.
+  >- Cliente: [Vodafone](https://www.vodafone.es/c/particulares/es/).
   >   - Proyecto: Incidencias Generales.
   >   - Rol: **Atencion al Usuario**.
   >   - Tecnologías: `Avaya`, `Remedy`, `Houston`, `Artemis`, `EditPlus`, `MS Office: Outlook, Word, Excel, PowerPoint`
@@ -123,7 +123,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
 
-  >- Cliente: Indra / Telefónica. Proyecto: Sistema judicial.
+  >- Cliente: [Indra](https://www.indracompany.com/) / [Telefónica](https://www.telefonica.com/es/). Proyecto: Sistema judicial.
   >   - Rol: **Analista / programador**.
   >   - _Metodología: Waterfall_
   >   - Tecnologías: `J2EE`, `Java`, (`JSP`, `Servlet`, `JDBC`), `ORM`, `XML`, entorno 3 capas, `Oracle`, `Eclipse`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
@@ -135,12 +135,12 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
 
-  >- Cliente: HP. (5 meses)
+  >- Cliente: [HP](https://www.hp.com/es-es/home.html) (5 meses)
   >   - Área: Sanidad
   >   - Proyectos: HP-HIS, HP-Doctor.
   >   - Roles: **Desarrollo, mantenimiento, implantación e integración**.
   >   - Tecnologías: `Unix`, `Linux`, `J2EE`, `Java`,(`JSP`, `Servlet`, `JDBC`) entorno 3 capas, `Oracle`, `Informix`, `MultiBase`, `Eclipse`, `JOnAS`, `JBoss`, `HTML`, `JavaScript`, `CSS`, `FullStack`. `MS Office: Outlook, Word, Excel, PowerPoint`
-  >- Cliente: HP. (4 meses)
+  >- Cliente: [HP](https://www.hp.com/es-es/home.html) (4 meses)
   >   - Área: Sanidad
       - Proyectos: HIS1. Gacela. ADM (Admisión), URG (Urgencias), CEX (Consultas Externas). Rol: **Soporte, Call Center** atención de Nivel 1. `Unix`, `Linux`, `Multibase`, `Informix`, `PowerBuilder`. `MS Office: Outlook, Word, Excel, PowerPoint`
 
@@ -151,8 +151,8 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
 
-  >- Cliente: PNE
-  >   - Proyecto: SIPNE.
+  >- Cliente: [PNE](https://www.policia.gob.ec/)
+  >   - Proyecto: SIIPNE.
   >   - Rol: **Analista / programador**, Aplicación cliente / servidor, POO.
   >   - _Metodología XP_
   >   - Teconologías:  `COSMOS`, `JCosmos`, `MultiBase`, `VBA`, `MS Office: Outlook, Word, Excel, PowerPoint`
@@ -262,13 +262,13 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de Contrato: Becario.
     - _Modalidad: Presencial_
 
-  >- Cliente: Banco Santander.
+  >- Cliente: [Banco Santander](https://www.bancosantander.es/particulares).
   >- Rol: **Ayudante técnico de sistemas**. Mantenimiento y diagnóstico de errores en el material informático, redes, servidores, pc's, portátiles, periféricos, instalaciones...
   >- Tecnología: `Windows`, `Linux`, `Unix`. `MS Office: Outlook, Word, PowerPoint`
 
 ## Proyectos Personales :floppy_disk: y Formación Adicional :mortar_board:
 
-- **[42 MADRID (TELEFÓNICA)](https://www.42madrid.com/)**, _Madrid, España_ :es:
+- **[42 MADRID](https://www.42madrid.com/) ([FUNDACION TELEFÓNICA](https://www.fundaciontelefonica.com/))**, _Madrid, España_ :es:
 
   >- Rol: **Candidato** :pineapple:
   >   - Febrero de 2020 (piscina) _[4 semanas]_
