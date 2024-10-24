@@ -1,6 +1,6 @@
 # Jesús I. García Fernández
 
-[_actualizado 29/12/2023_](https://jeigar2.github.io/)
+[_actualizado 24/10/2024_](https://jeigar2.github.io/)
 
 ## Contacto
 
@@ -26,8 +26,8 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 ### Idiomas
 
 - Inglés 🇬🇧 : **B1** (reading: 80%, listening: 50%, speaking: 60%)
-- Francés 🇫🇷 : **A2** (reading: 40%, listening: 30%, speaking: 30%)
-- Italiano 🇮🇹 : **A2** (reading: 50%, listening: 30%, speaking: 30%)
+- Francés 🇫🇷 : **A2** (reading: 40%, listening: 30%, speaking: 30%) _(sin usarlo desde hace 10 años)_
+- Italiano 🇮🇹 : **A2** (reading: 50%, listening: 30%, speaking: 30%) _(sin usarlo desde hace 1 año)_
 
 ## Otros datos de interés
 
@@ -51,7 +51,21 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Experiencia Laboral
 
-### Marzo 2023 - Actualidad
+### Mayo 2024 - Actualidad
+
+- **[COFORGE SA](https://www.coforge.com/)**, _Madrid, España_ 🇪🇸
+
+  - Tipo de contrato: Indefinido
+    - Modalidad: híbrido
+
+  >- Rol: ** **Business Solutions Designer / Software Engineering**.**, migraciones.
+  >   - Cliente: Iberia
+  >     - Área: Aviación, Grupos (+1 años)
+  >     - Migración y desarrollo de varios proyectos web Legacy: DC-EXIT + RMA/GSO [Iberiagencias](https://www.iberiagencias.com/), GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
+  >     - _metodología waterfall_
+  >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Service Now`, `XML`, `JSON`, `git`, `GitHub`, `CI-CD`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `Backend`, `AWS (EC2, S3, CodeArtifact, CodeDeploy, CloudWatch, ...)`
+
+### Marzo 2023 - Marzo 2024
 
 - **[AYESA ADVANCED TECHNOLOGIES SA](https://www.ayesa.com/)**, _Madrid, España_ 🇪🇸
 
@@ -64,7 +78,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >     - Proyecto: OpenPortal (5 meses)
   >       - _Metodología agile_
   >       - Tecnologías: `Intellij IDEA`, `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Kibana`, `Microservicios`, `ServiceNow`, `SCIM`, `Backend`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
-  >     - Proyecto: Kronos - PDP (5 meses)
+  >     - Proyecto: Kronos - PDP (7 meses)
   >       - _Metodología Waterfall_
   >       - Tecnologías: `Eclipse`, `Java`, `JSF` + `PrimeFaces`, `MyBatis`, `Maven`, `git`, `Oracle`, `Cassandra`, `WildFly`, `Quartz`, `AWS`, `S3`, `ServiceNow`, `FullStack`.  `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
 
