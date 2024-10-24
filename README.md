@@ -57,11 +57,11 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - Modalidad: híbrido
 
-  >- Rol: **Business Solutions Designer / Software Engineering**, migraciones de entornos `OnPremise` a entornos `cloud` en `AWS`.
+  >- Rol: **Business Solutions Designer / Software Engineering**, migraciones de entornos `OnPremise` a entornos `Cloud` en `AWS`.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (+1 años)
   >     - Migración y desarrollo de varios proyectos web Legacy: DC-EXIT + RMA/GSO [Iberiagencias](https://www.iberiagencias.com/), GREX, WServiceGrex, AutomatizacionWS y aplicaciones stand-alone automatizacionGrex.
-  >     - _metodología waterfall_
+  >     - _metodología Waterfall_
   >     - Tecnologías: `Java 5, 6, 7 y 8`, `Servicios Web SOAP`, `Servicios REST`, `GWT`, `Intellij IDEA`, `maven`, `spring`, `mybatis`, `postman`, `SoapUI`, `ServiceNow`, `XML`, `JSON`, `git`, `GitHub`, `CI-CD`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `Backend`, `AWS (EC2, S3, CodeArtifact, CodeDeploy, CloudWatch, ...)`
 
 ### Marzo 2023 - Marzo 2024 (Excedencia 1 año)
@@ -75,7 +75,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - cliente: [Enel](https://www.enel.com/es) 🇮🇹
   >   - Area: Energéticas
   >     - Proyecto: OpenPortal (5 meses)
-  >       - _Metodología agile_
+  >       - _Metodología Agile_
   >       - Tecnologías: `Intellij IDEA`, `SAP CAP`, `SAP HANA database`, `oData`, `Java`, `maven`, `git`, `AWS`, `S3`, `Kibana`, `Microservicios`, `ServiceNow`, `SCIM`, `Backend`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
   >     - Proyecto: Kronos - PDP (7 meses)
   >       - _Metodología Waterfall_
@@ -92,7 +92,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (12 años)
   >     - Desarrollo de varios proyectos web Legacy: [Iberiagencias](https://www.iberiagencias.com/), GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
-  >     - _metodología waterfall_
+  >     - _metodología Waterfall_
   >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Mantis`, `Remedy`, `XML`, `JSON`, `svn`, `cvs`, `git`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `SublimeText`, `Notepad++` `Backend`
   >
   >- Rol: **Analista / programador**
@@ -180,7 +180,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - _Modalidad: Presencial_
 
-  >- Clientes: Andinatel, Wakenhout, ...
+  >- Clientes: Andinatel, Wakenhut Ecuador, Laar Courier, Kraft Foods Ecuador ...
   >   - Área: Courier.
   >   - Proyecto: Customización del producto al cliente.
   >   - Roles: **Analista/programador**, líder de proyecto y producto. Soluciones web y celulares.
