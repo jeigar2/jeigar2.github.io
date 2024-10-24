@@ -308,13 +308,18 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >- Rol: **Estudiante** 🎓 (en activo) ✅
   >   - escuelas: Desarrollo Web, Negocios, Programación y Software, Startup, Diseño, Plazti Space Program, Inteligencia Artificial
   >   - Certificaciones.
-  >   - Tecnologias: `java`, `python`, `ia`, `discord`, `telegram`
+  >   - Tecnologias: `java`, `python`, ,`azure`, `ia`, `discord`, `telegram`
 
 - **[CODIGOFACILITO](https://codigofacilito.com/)** _(Plataforma educativa online)_
 
   >- Rol: **Estudiante** 🎓 (en activo) ✅
   >   - Bootcamp
-  >   - Tecnologias: `java`, `python`, `discord`, `telegram`
+  >   - Tecnologias: `java`, `python`, `azure`, `ia`, `discord`, `telegram`
+ 
+- **[UDEMY BUSINESS](https://business.udemy.com/)** _(Plataforma educativa online)_
+
+  >- Rol: **Estudiante** 🎓 (en activo) ✅
+  >   - Tecnologias: `java`, `aws`, `devops`, `ia`
 
 - **[DUOLINGO](https://www.duolingo.com/)** _(Plataforma educativa para idiomas: online)_
 
