@@ -10,8 +10,7 @@
 
 ## Perfil
 
-Soy un profesional con amplia experiencia en el desarrollo de aplicaciones informáticas y gestión de proyectos. Mi trayectoria incluye los roles de **analista**, **programador**, **consultor** y **jefe de equipo** como los más destacados en diversas empresas y proyectos. Tengo habilidades sólidas en `Java`, desarrollo web, con conocimientos de microservicios y metodologías ágiles. Actualmente, formo parte del equipo de Ayesa.
-Estoy de Excedencia 1 año en Coforge, viendo que fuera. Interesado en tecnología de vanguardia, y seguir formándome y progresando.
+Soy un profesional con amplia experiencia en el desarrollo de aplicaciones informáticas y gestión de proyectos. Mi trayectoria incluye los roles de **analista**, **programador**, **consultor** y **jefe de equipo** como los más destacados en diversas empresas y proyectos. Tengo habilidades sólidas en `Java`, desarrollo web, con conocimientos de microservicios y metodologías ágiles. Actualmente, estoy en Coforge, en procesos de migración de productos en entornos `OnPremise` que están pasando a `Cloud` de AWS. Estoy Interesado en tecnología de vanguardia, y seguir formándome y progresando.
 Amo este mundo y estoy seguro que lo mejor está por llegar.
 
 ## Educación
@@ -58,14 +57,14 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - Modalidad: híbrido
 
-  >- Rol: **Business Solutions Designer / Software Engineering.**, migraciones.
+  >- Rol: **Business Solutions Designer / Software Engineering**, migraciones de entornos `OnPremise` a entornos `cloud` en `AWS`.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (+1 años)
-  >     - Migración y desarrollo de varios proyectos web Legacy: DC-EXIT + RMA/GSO [Iberiagencias](https://www.iberiagencias.com/), GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
+  >     - Migración y desarrollo de varios proyectos web Legacy: DC-EXIT + RMA/GSO [Iberiagencias](https://www.iberiagencias.com/), GREX, WServiceGrex, AutomatizacionWS y aplicaciones stand-alone automatizacionGrex.
   >     - _metodología waterfall_
-  >     - Tecnologías: `Java 5, 6, 7, 8 y 11`, `Microservicios`, `REST`, `GWT`, `Intellij IDEA`, `Eclipse`, `maven`, `spring`, `mybatis`, `hibernate`, `postman`, `SoapUI`, `Service Now`, `XML`, `JSON`, `git`, `GitHub`, `CI-CD`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `Backend`, `AWS (EC2, S3, CodeArtifact, CodeDeploy, CloudWatch, ...)`
+  >     - Tecnologías: `Java 5, 6, 7 y 8`, `Servicios Web SOAP`, `Servicios REST`, `GWT`, `Intellij IDEA`, `maven`, `spring`, `mybatis`, `postman`, `SoapUI`, `ServiceNow`, `XML`, `JSON`, `git`, `GitHub`, `CI-CD`, `linux`, `shell`, `bash`, `Oracle`, `SQL`, `PLSQL`, `Weblogic`, `Tomcat`, `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`,`Visual Studio Code`, `Backend`, `AWS (EC2, S3, CodeArtifact, CodeDeploy, CloudWatch, ...)`
 
-### Marzo 2023 - Marzo 2024
+### Marzo 2023 - Marzo 2024 (Excedencia 1 año)
 
 - **[AYESA ADVANCED TECHNOLOGIES SA](https://www.ayesa.com/)**, _Madrid, España_ 🇪🇸
 
@@ -82,7 +81,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   >       - _Metodología Waterfall_
   >       - Tecnologías: `Eclipse`, `Java`, `JSF` + `PrimeFaces`, `MyBatis`, `Maven`, `git`, `Oracle`, `Cassandra`, `WildFly`, `Quartz`, `AWS`, `S3`, `ServiceNow`, `FullStack`.  `Microsoft 365: Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, OneNote`
 
-### Febrero 2008 - Marzo 2023 (Excedencia 1 año)
+### Febrero 2008 - Marzo 2023
 
 - **[COFORGE SA](https://www.coforge.com/)**, _Madrid, España_ 🇪🇸
 
