@@ -58,7 +58,7 @@ Amo este mundo y estoy seguro que lo mejor está por llegar.
   - Tipo de contrato: Indefinido
     - Modalidad: híbrido
 
-  >- Rol: ** **Business Solutions Designer / Software Engineering**.**, migraciones.
+  >- Rol: **Business Solutions Designer / Software Engineering.**, migraciones.
   >   - Cliente: Iberia
   >     - Área: Aviación, Grupos (+1 años)
   >     - Migración y desarrollo de varios proyectos web Legacy: DC-EXIT + RMA/GSO [Iberiagencias](https://www.iberiagencias.com/), GREX, WSGrex, AutomatizacionWS, PnrGen, IBConecta y aplicaciones stand-alone, integración de interfaces con otras herramientas como PROS: OD, O&D, ODWI, GnG a través de servicios web.
